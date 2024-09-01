@@ -1,0 +1,2 @@
+/_build/fonts/*
+  cache-control: public, immutable, max-age=31536000
